@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/popcornspace-voice-call-mcp-server-badge.png)](https://mseep.ai/app/popcornspace-voice-call-mcp-server)
+
 # Voice Call MCP Server
 
 A Model Context Protocol (MCP) server that enables Claude and other AI assistants to initiate and manage voice calls using Twilio and OpenAI (GPT-4o Realtime model).
